@@ -18,7 +18,7 @@ This project explores and visualizes pizza sales data using SQL and Power BI. Th
 ## 📁 Folder Structure
 - `SQL/` — All SQL queries used for data extraction and KPIs.
 - `Images/` — Screenshots of the Power BI dashboard.
-- `PowerBI/` — The `.pbix` file (optional, if you want to share it).
+- `PowerBI/` — The `.pbix` file
 - `README.md` — Project overview.
 
 ## 📸 Dashboard Preview
